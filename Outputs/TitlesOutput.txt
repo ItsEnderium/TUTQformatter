@@ -1,0 +1,80 @@
+1.1 "Broadcast received" boolean block
+1.2 "When stop sign clicked" hat block
+1.3 "Pointing towards sprite" boolean block
+1.4 Social action reporter blocks
+1.5 Cloud lists
+1.6 2D lists
+1.7 3D Scratch
+1.8 Blocks that control the mouse pointer
+1.9 "Forever if" C block
+1.10 Permanent option for cat blocks
+1.11 Comment block
+1.12 "Jump to code" block
+2.1 Adding users to work on projects
+2.2 Text-based syntax in Scratch
+2.3 Set the editor to look like older versions of Scratch
+2.4 Revert back to older versions of the Scratch editor
+2.5 Official Scratch to EXE converter
+2.6 Increase the 300 clone limit
+2.7 Scratch editor for video game consoles
+2.8 Default list in a new Scratch project
+2.9 Letters in cloud variables
+3.1 Chat projects with cloud variables
+3.2 Disable remixing or censor minor remixes
+3.3 Ban certain franchises
+3.4 Censor projects with no coding
+3.5 Remove the automatic project censoring system
+3.6 Ability to see Scratchers' unshared projects
+4.1 Disable "See Inside" or restrict sharing
+4.2 Dislike button or a project rating system
+4.3 Ability to see who viewed a project
+4.4 Ability to see who reported a project
+5.1 Remove studio activity messages
+5.2 "Invite all followers" button for studios
+5.3 Remove "add everything" or "invite everyone" studios
+5.4 Revert back to older versions of the studio pages
+5.5 Increase the studio reply limit
+5.6 Add multiple studio hosts
+6.1 Delete or edit your comments everywhere
+6.2 Remove character limits on text fields
+6.3 Notification for being mentioned in comments
+6.4 Live commenting or streaming
+6.5 Censor the words {damn, crap, frick, lmao}
+7.1 Private messaging
+7.2 A 13+ version of the Scratch website or age-restricted content
+7.3 Ban "follow for follow" (F4F)
+7.4 Allow Scratchers to moderate the website
+7.5 Scratchers and Scratch Team members should not promote political views
+7.6 Improve or remove the extension policy
+7.7 Paid advertisements on the Scratch website
+7.8 Project advertisements on the Scratch website
+7.9 Pop-up alert that encourages users to take a break from screen time
+7.10 Propose your own projects to be featured
+7.11 "Recently Shared Projects" row on the front page
+7.12 "Featured Scratchers" row on the front page
+7.13 Ability to vote on featured projects
+7.14 Revert the purple color palette back to blue
+7.15 "Other" option for reporting profiles
+7.16 Change the types of projects to be featured
+7.17 Official contests on Scratch
+8.1 Changing usernames or changing display names
+8.2 Add a rank above Scratcher or allow users to skip the New Scratcher status
+8.3 Show when users are online
+8.4 Show when users are banned
+8.5 Recycle usernames or delete inactive accounts
+8.6 Blocking or ignoring Scratchers
+8.7 Digital currency or money blocks
+8.8 Scratch achievements
+8.9 Notification when someone unfollows you
+8.10 Change the list of locations
+9.1 Bring back the "Discuss" tab
+9.2 Notification for being quoted in topics
+9.3 Off-topic or miscellaneous section on the forums
+9.4 An official list of accepted suggestions
+9.5 Allow files to be uploaded into forum posts
+9.6 Polls in the forums
+9.7 Guide section on the forums
+9.8 Report button for signatures
+10.1 Remove or decrease the 60 Second Rule
+10.2 Show exact post count of other users
+10.3 Remove restricted image hosts or add your own websites
