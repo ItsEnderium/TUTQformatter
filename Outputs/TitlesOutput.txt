@@ -39,7 +39,7 @@
 6.2 Remove character limits on text fields
 6.3 Notification for being mentioned in comments
 6.4 Live commenting or streaming
-6.5 Censor the words {damn, crap, frick, lmao}
+6.5 Filter the words {damn, crap, frick, lmao}
 7.1 Private messaging
 7.2 A 13+ version of the Scratch website or age-restricted content
 7.3 Ban "follow for follow" (F4F)
